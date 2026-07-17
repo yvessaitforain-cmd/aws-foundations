@@ -2,21 +2,24 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+This repository contains educational examples and demonstrations for the AWS Foundations course. It does not publish versioned releases.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Version | Supported |
+| --- | --- |
+| Latest commit on `main` | Yes |
+| Older commits, branches, and forks | No |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+Please do not disclose suspected vulnerabilities in a public issue or pull request.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
-pull up.ok magic ONLY.OG KAN U LOL. head OF LITERAL THE WHOLE INDUSTRY.. sounwave. u.. but cant escape. ok producer. 
+Use GitHub's private vulnerability-reporting feature from the repository's **Security** tab when it is available. Include:
+
+- A clear description of the vulnerability and its potential impact.
+- The affected file, exercise, or demonstration.
+- Steps to reproduce the issue.
+- Any suggested mitigation or fix.
+
+Do not include active AWS credentials, access keys, account identifiers, or other secrets in the report.
+
+The maintainers will aim to acknowledge complete reports within five business days. Confirmed issues will be addressed in the latest version of the affected material; unsupported historical commits and forks may not receive fixes.
